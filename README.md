@@ -28,3 +28,7 @@ A progressive web application is a type of application software delivered throug
 ## Preview Image and Deployed App
 ![Preview Image](./public/icons/preview.JPG)
 * Deployed app: [here!](https://quiet-falls-63309.herokuapp.com/)
+
+
+## Copyrights
+Hae Seung Sung 2020
